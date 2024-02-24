@@ -1,13 +1,13 @@
-<img src="https://cdn.discordapp.com/attachments/1017855060190965830/1024727848835096596/ahuri_card.png">
+<img src="https://raw.githubusercontent.com/ahuri-app/branding/main/logo/icons/ahuri%20card.png" width="500">
 
-# Ahuri - The Simple & Secure way to chat.
+# <img src="https://raw.githubusercontent.com/ahuri-app/branding/main/logo/icons/round.png" height="24"> Ahuri - The Simple & Secure way to chat.
 
 # What's Ahuri?
-Ahuri is the **simple and secure way** to chat. We have **End-to-End Encryption** so no one except you or the recipient(s) can read your messages. (not even us!)
+Ahuri is the **simple and secure way** to chat. We have **End-to-End Encryption*** so no one except you or the recipient(s) can read your messages. (not even us!)
+**NOTE:** *Ahuri is still in development, E2E has not been implemented yet.*
 
 ### Ahuri is currently in-development.
-You can join the Discord Server for updates!
-<br>
-You can also give suggestions, report bugs, chat with other cool people and have fun there till Ahuri is in development!
+Join the [Discord Server](https://discord.gg/X9MQPxGXzG) for updates!
 
-Please [consider donating](http://18.169.99.65/donate) to fund the project.
+Please [consider donating](https://github.com/ahuri-app) to fund the project.
+(Donations currently are not set up)
